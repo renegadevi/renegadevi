@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 
 **I'm a "full-stack" software engineer and graphic designer whos' passion is to combine creativity with technology.**
 
