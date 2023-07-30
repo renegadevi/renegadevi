@@ -19,7 +19,7 @@ I've solo-developed software ranging from infrastructure solutions to every day 
 - Video player (unlimited canvas, real-time scaling and cropping, HDR10/H265 support etc. for pixel perfect playback)
 - and more.. 
 
-### Some open-source projects
+### Some open-source/side projects
 These are mostly fun side projects or something I had a need for.
 
 - [Mac App Collection](https://macappcollection.com) - App discoverbility website
