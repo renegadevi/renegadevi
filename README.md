@@ -2,7 +2,7 @@
 
 **I'm a "full-stack" software engineer and graphic designer with a passion is to combine creativity with technology.**
 
-I currently busy working within the display industry with a focus on LED displays, and done so for over a decade. Developing and installing solutions of any kind; from Cinematic MicroLED video walls to outdoor displays you see on buildings and sports stadiums etc. My work involves expertise in various specialized video hardware as well as development of software solutions for client-specific needs.
+I'm currently busy working within the display industry with a focus on LED displays, and have been doing so for over a decade. Developing and installing solutions of any kind; from Cinematic MicroLED video walls to outdoor displays you see on buildings and sports stadiums etc. My work involves expertise in various specialized video hardware as well as development of software solutions for client-specific needs.
 
 I used to work in the design and print industry as a graphic designer and production artist for some years which made me develop a bigger passion for front-end and UX design.
 
