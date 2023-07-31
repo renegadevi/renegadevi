@@ -6,7 +6,7 @@ I'm currently busy working within the display industry with a focus on LED displ
 
 I used to work in the design and print industry as a graphic designer and production artist for some years which made me develop a bigger passion for front-end and UX design.
 
-### Some projects at work
+### Some projects I've done professionally
 I've solo-developed software ranging from infrastructure solutions to every day software such as:
 
 - Time tables (departure displays)
@@ -23,7 +23,7 @@ I've solo-developed software ranging from infrastructure solutions to every day 
 These are mostly fun side projects or something I had a need for.
 
 - [Mac App Collection](https://macappcollection.com) - App discoverbility website
-- [The Timestamp App](https://xn--tidsstmpeln-q8a.se/) - Rewrite of a old Qt app in Nuxt
+- [The Timestamp App](https://thetimestamp.app/) - Rewrite of a old Qt app in Nuxt
 - [temp2temp](https://pypi.org/project/temp2temp/) - Python library for temperature conversion
 - [js-console-formatter](https://www.npmjs.com/package/js-console-formatter) - Structured console experience
 - [Nuxt Boilerplate](https://github.com/renegadevi/nuxt-boilerplate) - Enterprise ready to use Nuxt project
