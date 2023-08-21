@@ -46,7 +46,7 @@ etc.
 - Game launcher for MS-DOS written in Batch
 - Forum software
 - CSS Pre-processor in PHP (because I hated compile time in other pre-processors)
-- RSS Reader when google decided to 
+- RSS Reader
 - Text editor in Java
 - Note taking app in Python using GTK
 - Flat file CMS in PHP
