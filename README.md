@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-**I'm a "full-stack" software engineer and production artist with a passion to combine creativity with technology.**
+**I'm a Technical Solutions Engineer and production artist with a passion to combine creativity with technology.**
 
 I'm currently busy working within the display industry with a focus on LED displays, and have been doing so for over a decade. Developing and installing solutions of any kind; all from Cinematic MicroLED video walls to outdoor displays you see on buildings and sports stadiums. My work involves expertise in various specialized video hardware as well as development of software solutions for client-specific needs.
 
