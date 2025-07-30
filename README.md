@@ -1,10 +1,13 @@
 # Hi there! 👋
 
-I'm currently busy working with R&D within display industry with a focus on LED display solutions, and have been doing so for over a decade.
+I'm mostly busy working with R&D within display industry with a focus on LED display solutions, and have been doing so for over a decade.
 
-Everything from Cinematic MicroLED video walls to outdoor displays you see on buildings and sports stadiums. My work involves expertise in various specialized video hardware as well as development of software solutions for client-specific needs.
+Everything from Cinematic MicroLED video walls to outdoor displays you see on buildings and sports stadiums. My work involves expertise in various specialized video hardware as well as development of software solutions for client-specific needs. I used to work in the design and print industry as a graphic designer and production artist for some years which made me develop a bigger passion for front-end and UX design.
 
-I used to work in the design and print industry as a graphic designer and production artist for some years which made me develop a bigger passion for front-end and UX design.
+### What I'm currently working on
+
+Privately I've been working on a platform for simple manage of Servers, IOT, Edge, Gateway etc. devices for network management. Some of the tech-stack so far involves parts like [TimescaleDB](https://github.com/timescale/timescaledb), [Golang](https://github.com/golang/go), [MQTT (over TLS)](https://mqtt.org/), [Websocket](https://github.com/websockets/ws), [Podman](https://github.com/containers/podman), [Nuxt](https://github.com/nuxt/nuxt?tab=readme-ov-file#nuxt).
+
 
 <details open>
 <summary>
@@ -12,6 +15,7 @@ I used to work in the design and print industry as a graphic designer and produc
 ### Projects I've done working professionally
 </summary>
 
+- Interactive MicroLED solution builder
 - Time tables (departure displays)
 - Camera monitoring solution
 - Video control solution
