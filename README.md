@@ -9,7 +9,7 @@ Everything from Cinematic MicroLED video walls to outdoor displays you see on bu
 Privately I've been working on a platform for simple manage of Servers, IOT, Edge, Gateway etc. devices for network management. Some of the tech-stack so far involves parts like [TimescaleDB](https://github.com/timescale/timescaledb), [Golang](https://github.com/golang/go), [MQTT (over TLS)](https://mqtt.org/), [Websocket](https://github.com/websockets/ws), [Podman](https://github.com/containers/podman), [Nuxt](https://github.com/nuxt/nuxt?tab=readme-ov-file#nuxt).
 
 
-<details closed>
+<details open>
 <summary>
 
 ### Projects I've developed professionally
