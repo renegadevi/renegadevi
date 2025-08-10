@@ -9,10 +9,10 @@ Everything from Cinematic MicroLED video walls to outdoor displays you see on bu
 Privately I've been working on a platform for simple manage of Servers, IOT, Edge, Gateway etc. devices for network management. Some of the tech-stack so far involves parts like [TimescaleDB](https://github.com/timescale/timescaledb), [Golang](https://github.com/golang/go), [MQTT (over TLS)](https://mqtt.org/), [Websocket](https://github.com/websockets/ws), [Podman](https://github.com/containers/podman), [Nuxt](https://github.com/nuxt/nuxt?tab=readme-ov-file#nuxt).
 
 
-<details open>
+<details closed>
 <summary>
 
-### Projects I've done working professionally
+### Projects I've developed professionally
 </summary>
 
 - Interactive MicroLED solution builder
@@ -28,10 +28,10 @@ Privately I've been working on a platform for simple manage of Servers, IOT, Edg
 - Network based Touch interfaces
 etc.
 </details>
-<details open>
+<details closed>
 <summary>
   
-### Some current open-source projects
+### Some open-source projects
 </summary>
 
 - [Mac App Collection](https://macappcollection.com) - App discoverbility website
