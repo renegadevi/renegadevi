@@ -28,11 +28,11 @@ etc.
   
 ### Some other projects
 </summary>
+
 - [Mac App Collection](https://macappcollection.com) - App discoverbility website
 - [The Timestamp App](https://thetimestamp.app/) - Rewrite of a old Qt timestamping app in Nuxt
 - [Nuxt Boilerplate](https://github.com/renegadevi/nuxt-boilerplate) - Enterprise ready to use Nuxt project
 - [Minipad](https://minipad-editor.vercel.app/) - A fast and lightweight Win32 notepad, with tabs and line numbers.
-etc.
 </details>
 
 
