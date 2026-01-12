@@ -23,26 +23,14 @@ Everything from Cinematic MicroLED video walls to outdoor displays you see on bu
 - Network based Touch interfaces
 etc.
 </details>
-<details closed>
+<details open>
 <summary>
   
-### Some open-source projects
+### Some other projects
 </summary>
-
 - [Mac App Collection](https://macappcollection.com) - App discoverbility website
-- [The Timestamp App](https://thetimestamp.app/) - Rewrite of a old Qt app in Nuxt
-- [temp2temp](https://pypi.org/project/temp2temp/) - Python library for temperature conversion
-- [js-console-formatter](https://www.npmjs.com/package/js-console-formatter) - Structured console experience
+- [The Timestamp App](https://thetimestamp.app/) - Rewrite of a old Qt timestamping app in Nuxt
 - [Nuxt Boilerplate](https://github.com/renegadevi/nuxt-boilerplate) - Enterprise ready to use Nuxt project
-etc.
-</details>
-
-<details closed>
-<summary>
-  
-### Other projects
-</summary>
-
 - [Minipad](https://minipad-editor.vercel.app/) - A fast and lightweight Win32 notepad, with tabs and line numbers.
 etc.
 </details>
